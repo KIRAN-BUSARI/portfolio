@@ -51,7 +51,6 @@ nav ul li:hover {
 
 nav ul li a:hover {
     -webkit-text-stroke: 1px #ff7070;
-    text-decoration: underline;
     transition: .8s ease-in-out all;
     color: #ff7070;
     filter: blur(0px);

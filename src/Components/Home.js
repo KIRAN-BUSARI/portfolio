@@ -1,8 +1,6 @@
 import React from 'react'
 import './Home.css'
 import Navbar from './Navbar'
-import About from './About'
-// import Contact from './Contact'
 
 export default function Home() {
     return (
